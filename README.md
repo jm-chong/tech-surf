@@ -4,7 +4,7 @@
 
 ## Object Oriented Programming
 
-- [오브젝트](http://www.yes24.com/Product/Goods/74219491)
+- [오브젝트](http://www.yes24.com/Product/Goods/74219491) : [Read](https://github.com/jm-chong/object-book)
 - [Clean Code 클린 코드](http://www.yes24.com/Product/Goods/11681152?scode=032&OzSrank=1)
 - [클린 아키텍처](http://www.yes24.com/Product/Goods/77283734)
 
