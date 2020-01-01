@@ -44,6 +44,7 @@
 - [Advanced JS Foundation](https://egghead.io/courses/advanced-javascript-foundations)
 - [Testing Javascript](https://testingjavascript.com)
 - [Programming with Types](https://learning.oreilly.com/library/view/programming-with-types/9781617296413/)
+- [Typescript Evolution](https://mariusschulz.com/blog/series/typescript-evolution)
 
 ## React
 
