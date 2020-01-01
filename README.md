@@ -15,6 +15,7 @@
 - [Get Programming with Haskell](https://learning.oreilly.com/library/view/get-programming-with/9781617293764/)
 - [Composing Software](https://leanpub.com/composingsoftware)
 - [개미 수열을 푸는 10가지 방법](https://leanpub.com/programming-look-and-say)
+- [Hands on Functional Programming with Typescript](https://learning.oreilly.com/library/view/hands-on-functional-programming/9781788831437/)
 
 ## Refactoring
 
